@@ -1,3 +1,4 @@
+
 <h2 align="left">Hi 👋! My name is Vaishali, <br>I'm a graduate software engineer</h2>
 
 ###
@@ -33,7 +34,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/vm799/vm799/blob/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/vm799/vm799/blob/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
@@ -45,3 +46,5 @@
 </div>
 
 ###
+
+
