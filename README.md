@@ -1,4 +1,4 @@
-<h2 align="left">Hi!<br>I'm Vaishali.<br><br>Graduate software developer from London.<br>Love to code, design <br><br>and love love cocker spaniels  🧡</h2>
+<h2 align="left">Hi!<br>I'm Vaishali.<br><br>Graduate software developer from London.<br>I love to problem solve, design and build... <br><br>and i adore cocker spaniels  🧡</h2>
 
 ###
 
@@ -11,6 +11,7 @@
 <h3 align="center">My portfolio: <br><br>https://vm-portfolio-gamma.vercel.app/</h3>
 
 ###
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
@@ -30,10 +31,12 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a  href= "https://www.linkedin.com/in/vaishali7/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/> </a>
+  
+ <a href="https://discord.com/channels/@vaishali#0191"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> </a>
+  
+  <a href="https://www.instagram.com/vaishalimehmi/"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /> </a> 
+  
 </div>
 
 ###
